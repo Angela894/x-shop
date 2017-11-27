@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{es6-error-DefinitelyTyped, vue-i18n-DefinitelyTyped, vue-resource-DefinitelyTyped, vue-scrollto-DefinitelyTyped, x-shop/api/node_modules, x-shop/client/node_modules}" />
+    <includedPredefinedLibrary name="WebGL" />
+  </component>
+</project>
